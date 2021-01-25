@@ -1,7 +1,7 @@
 # LSMD_Algorithm
 LSMD: A fast and robust local community detection starting from low degree nodes in social networks
 
-This is the Matlab implementation of LSMD: A fast and robust local community detection starting from low degree nodes in social.
+This is the Matlab implementation of LSMD: A fast and robust local community detection starting from low degree nodes in social networks.
 
 The original paper is available in: https://www.sciencedirect.com/science/article/abs/pii/S0167739X2030724X
 
