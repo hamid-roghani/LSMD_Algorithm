@@ -7,7 +7,7 @@ The original paper is available in: https://www.sciencedirect.com/science/articl
 
 This code implements LSMD algorithm in MATLAB 2017
 
-We have used neighboring list structure as the input file for algorithm. The execution of the LSMD is so simple.To execute the code, it is needed to put extracted folder of"datasets.rar" into one folder with the extracted source codes of "LSMD_CommunityDetection_Algorithm.rar". Then open "main_algorithm.m" to write dataset name to start execution. In some datasets it is not necessary to execute merge step which it can be contoroled by "merge_falg" before execution. The output of the algorithm is label array of nodes which is writen in "results" folder.
+We have used neighboring list structure as the input file for algorithm. The execution of the LSMD is so simple. To execute the code, it is needed to put extracted folder of "datasets.rar" into one folder with the extracted source codes of "LSMD_CommunityDetection_Algorithm.rar". Then open "main_algorithm.m" to write dataset name in "dataset_name" variable to start execution. In some datasets it is not necessary to execute merge step which it can be contoroled by "merge_falg" before execution. The output of the algorithm is label array of nodes which is writen in "results" folder.
 
 
 Names of datasets are as follows and are available in "datasets" folder.
